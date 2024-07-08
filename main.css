@@ -1,0 +1,12 @@
+p{
+      color: orangered;}
+  a{
+        text-decoration: none;
+  }    
+table,th,td{
+    border: 5px solid rgb(212, 86, 86);
+    background-color: aqua;
+}
+h1{
+    color: aqua;
+}
